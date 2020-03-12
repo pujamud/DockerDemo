@@ -4,7 +4,9 @@ Docker workshop
 What is Docker?
 ---------------
 
-Docker is an **open-source** project that **automates** the **deployment** of applications inside software **containers**. It has very developed eco-system to make, distribute and handle containers. Also it’s very well documented.
+
+
+The Docker is an **open-source** project that **automates** the **deployment** of applications inside software **containers**. It has very developed eco-system to make, distribute and handle containers. Also it’s very well documented.
 
 Docker uses the resource isolation features of the Linux kernel such as _cgroups_ and kernel _namespaces_, and a _union-capable file system_ such as OverlayFS and others to allow independent "containers" to run within a single Linux instance, avoiding the overhead of starting and maintaining virtual machines.
 
